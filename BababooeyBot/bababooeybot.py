@@ -1,3 +1,8 @@
+#made by mayhaps
+#yes the code is bad
+#i made it a long time ago
+
+
 import os
 import socket
 from dhooks import Webhook, File, Embed
