@@ -3,7 +3,7 @@
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 [![Badges](http://img.shields.io/:badges-69/96-ff6799.svg)](https://github.com/badges/badgerbadgerbadger)
 
-# BababooeyBot
+# Simple Token Grabber
 
 Simple token grabber using python
 
